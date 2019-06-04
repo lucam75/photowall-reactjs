@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/photowall-reactjs/static/css/main.2ccd4921.chunk.css",
+    "main.js": "/photowall-reactjs/static/js/main.dfb4d95a.chunk.js",
+    "main.js.map": "/photowall-reactjs/static/js/main.dfb4d95a.chunk.js.map",
+    "runtime~main.js": "/photowall-reactjs/static/js/runtime~main.09d9368a.js",
+    "runtime~main.js.map": "/photowall-reactjs/static/js/runtime~main.09d9368a.js.map",
+    "static/css/2.266e55a5.chunk.css": "/photowall-reactjs/static/css/2.266e55a5.chunk.css",
+    "static/js/2.d49d4635.chunk.js": "/photowall-reactjs/static/js/2.d49d4635.chunk.js",
+    "static/js/2.d49d4635.chunk.js.map": "/photowall-reactjs/static/js/2.d49d4635.chunk.js.map",
+    "index.html": "/photowall-reactjs/index.html",
+    "precache-manifest.e99868c058f05452ea195bb7c74c6b48.js": "/photowall-reactjs/precache-manifest.e99868c058f05452ea195bb7c74c6b48.js",
+    "service-worker.js": "/photowall-reactjs/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/photowall-reactjs/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.2ccd4921.chunk.css.map": "/photowall-reactjs/static/css/main.2ccd4921.chunk.css.map"
+  }
+}
