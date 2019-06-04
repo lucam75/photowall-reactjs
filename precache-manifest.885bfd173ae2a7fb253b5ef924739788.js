@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "56c3245a58aac9499e26219ea1d10165",
+    "revision": "48bf74786727a0fb7d363495f479e125",
     "url": "/photowall-reactjs/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/photowall-reactjs/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "e5e9bd6b9c7ea3ba7197",
+    "revision": "28f211d19b0dd1346b3f",
     "url": "/photowall-reactjs/static/css/main.2ccd4921.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/photowall-reactjs/static/js/2.21c38e14.chunk.js"
   },
   {
-    "revision": "e5e9bd6b9c7ea3ba7197",
-    "url": "/photowall-reactjs/static/js/main.f282650a.chunk.js"
+    "revision": "28f211d19b0dd1346b3f",
+    "url": "/photowall-reactjs/static/js/main.a5d8c632.chunk.js"
   },
   {
     "revision": "4fe9e3eba1587304478e",
